@@ -1,4 +1,4 @@
-# cobaa
+# bot penditeksi sampah
 
 ## ide : bot pendeteksi sampah
 website yang memberitahu perbedaan sampah reusable atau tidak dan memberikan solusi
